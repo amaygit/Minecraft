@@ -45,5 +45,5 @@ Steps:
       :)Fourth to run this u can use any python code editor of u choice
                 I recommend u to for visual studio code or pycharm
           
-        :)Boom ur minecraft is ready to run.........:)
+      :)Boom ur minecraft is ready to run.........:)
                           
