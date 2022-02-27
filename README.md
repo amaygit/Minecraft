@@ -1,5 +1,6 @@
 # Minecraft
 Steps:
+
       :)First u have to install python 
           *For windows: https://www.python.org/downloads/windows/
           *For linux: Command => 
