@@ -42,8 +42,8 @@ Steps:
                       git clone https://github.com/amaygit/Minecraft.git
                       
              
-      :)Fourth to run this u can use any python code editor of u choice
-                I recommend u to for visual studio code or pycharm
+      :)Fourth to run this u can use any python code editor of your choice
+                I recommend u to go for visual studio code or pycharm
           
       :)Boom ur minecraft is ready to run.........:)
                           
